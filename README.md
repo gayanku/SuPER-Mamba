@@ -6,7 +6,7 @@ PyTorch implementation of "SuPER-Mamba: Surprisal Prioritization for Extended-Co
 
 [Preprint](https://arxiv.org/abs/2610.16636v1)
 
-Link [SuPER-Mamba](https://github.com/haveasmileYEAH/SuPER-Mamba)
+Link to full code repo :  [SuPER-Mamba](https://github.com/haveasmileYEAH/SuPER-Mamba)
 
 
 
