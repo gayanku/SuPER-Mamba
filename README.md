@@ -12,14 +12,11 @@ Link [SuPER-Mamba](https://github.com/haveasmileYEAH/SuPER-Mamba)
 
 ## Citation
 ```
-@article{zhang2026supermamba,
-      title={SuPER-Mamba: Surprisal Prioritization for Extended-Context Routing in Mamba}, 
-      author={Zhetong Zhang and Gayan K Kulatilleke},
-      year={2026},
-      eprint={2610.16636},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2610.16636},
+@article{zhang2026super,
+  title={SuPER-Mamba: Surprisal Prioritization for Extended-Context Routing in Mamba},
+  author={Zhang, Zhetong and Kulatilleke, Gayan K},
+  journal={arXiv preprint arXiv:2610.16636},
+  year={2026}
 }
 ```
 
